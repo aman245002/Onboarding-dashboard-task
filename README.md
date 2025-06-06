@@ -5,7 +5,7 @@ A modern, responsive multi-step onboarding wizard with a personalized dashboard 
 ---
 ## 🔗 Live Demo
 
-👉 [https://ongoing-dashboard.netlify.app/onboarding](https://ongoing-dashboard.netlify.app/onboarding)
+👉 [https://ongoing-dashboard.netlify.app/onboarding](https://ongoing-dashboard.netlify.app)
 
 ---
 
