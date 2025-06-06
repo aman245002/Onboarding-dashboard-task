@@ -34,20 +34,38 @@ A modern, responsive multi-step onboarding wizard with a personalized dashboard 
 
 ## 🛠️ Getting Started
 
-Follow the steps below to run the project locally:
-
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aman245002/Onboarding-task
-cd your-repo-name
+git clone https://github.com/aman245002/Onboarding-task.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd Onboarding-task
+```
+
+### 3. Install dependencies
+
+```bash
 npm install
+```
+
+### 4. Start the development server
+
+```bash
 npm start
+```
 
------
-### Visit http://localhost:3000 in your browser 🚀
+➡️ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
-📦 your-repo-name
+---
+
+## 📁 Project Structure
+
+```plaintext
+📦 Onboarding-task
 ├── 📁 public
 ├── 📁 src
 │   ├── 📁 components       # Reusable components (Navbar, Footer, Cards, etc.)
@@ -59,8 +77,31 @@ npm start
 ├── 📄 package.json
 ├── 📄 tailwind.config.js
 └── 📄 README.md
+```
 
-📸 Preview
-You can include preview screenshots here:
+---
+
+## 💡 Customization Tips
+
+- 🌗 **Theme** or **Dashboard Layout** is configurable in **Step 3** of onboarding.
+- 🎨 Modify Tailwind styles in `tailwind.config.js`.
+- 📊 Add your own datasets to the chart in `Dashboard.jsx`.
+
+---
+
+## 📸 Preview
+
+> *(Add image links or screenshots below once ready)*
+
+```markdown
+![Onboarding UI Preview](./assets/onboarding-preview.png)
+![Dashboard UI Preview](./assets/dashboard-preview.png)
+```
+
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ by [Aman Kumar](https://github.com/aman245002)
 
 
