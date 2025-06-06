@@ -39,7 +39,27 @@ Follow the steps below to run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/aman245002/Onboarding-task
+cd your-repo-name
+npm install
+npm start
 
+Visit http://localhost:3000 in your browser 🚀
+
+📦 your-repo-name
+├── 📁 public
+├── 📁 src
+│   ├── 📁 components       # Reusable components (Navbar, Footer, Cards, etc.)
+│   ├── 📁 pages            # Onboarding & Dashboard pages
+│   ├── 📁 assets           # Images/icons
+│   ├── 📄 App.jsx
+│   ├── 📄 index.js
+│   └── 📄 styles.css       # Tailwind entry
+├── 📄 package.json
+├── 📄 tailwind.config.js
+└── 📄 README.md
+
+📸 Preview
+You can include preview screenshots here:
 
 
