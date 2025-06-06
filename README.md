@@ -44,7 +44,8 @@ cd your-repo-name
 npm install
 npm start
 
-Visit http://localhost:3000 in your browser 🚀
+-----
+### Visit http://localhost:3000 in your browser 🚀
 
 📦 your-repo-name
 ├── 📁 public
