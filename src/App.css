@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+/* Reset default margin and padding */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Prevent scrollbars from whitespace */
+body {
+  overflow-x: hidden;
+}
+
+#root {
+  height: 100%;
+}

@@ -1,0 +1,132 @@
+.step2-wrapper {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  background-image: url('../assets/pic1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 640px) {
+  .step2-wrapper {
+    background-image: url('../assets/pic2.jpg');
+  }
+}
+
+.step2-wrapper::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 0;
+}
+
+.step2-box {
+  position: relative;
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px);
+  color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
+}
+
+.step2-box h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.form-group {
+  margin-bottom: 1.25rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+}
+
+.form-group input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.error {
+  color: #ff6b6b;
+  font-size: 0.875rem;
+  margin-top: 0.25rem;
+}
+
+.button-wrap {
+  display: flex;
+  justify-content: space-between; /* ✅ Spread buttons to both sides */
+  margin-top: 1.5rem;
+}
+
+
+
+.button-wrap button {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.button-wrap .back-btn {
+  background-color: #6c757d;
+}
+
+.button-wrap .back-btn:hover {
+  background-color: #5a6268;
+}
+
+.button-wrap button:hover {
+  background-color: #218838;
+}
+
+.progress-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 6px;
+  background: rgba(255, 255, 255, 0.2);
+  z-index: 1;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: #28a745;
+  transition: width 0.3s ease-in-out;
+}
+
+.form-group select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+}
+
+.form-group select option {
+  color: black; /* dropdown items visible */
+}
