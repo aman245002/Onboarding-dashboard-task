@@ -88,10 +88,10 @@ npm start
 - 📊 Add your own datasets to the chart in `Dashboard.jsx`.
 
 ---
-
 ## 📸 Preview
 
-![Onboarding UI Preview](./pic4.jpeg)
+![Onboarding UI Preview](/pic4.jpeg)
+
 
 
 ---
