@@ -4,6 +4,20 @@ A modern, responsive multi-step onboarding wizard with a personalized dashboard 
 
 ---
 
+## 📸 Preview
+
+### 🧑‍💼 Step 1: Personal Info
+![Step 1 - Personal Info](/pic4.jpeg)
+
+### 🏢 Step 2: Business Info
+![Step 2 - Business Info](/pic5.jpeg)
+
+### 🎨 Step 3: Preferences
+![Step 3 - Preferences](/pic6.jpeg)
+
+### 📊 Step 4: Dashboard
+![Step 4 - Dashboard](/pic7.jpeg)
+
 ## 🔧 Features
 
 - ✅ Multi-step onboarding form (3 steps)
@@ -88,19 +102,7 @@ npm start
 - 📊 Add your own datasets to the chart in `Dashboard.jsx`.
 
 ---
-## 📸 Preview
 
-### 🧑‍💼 Step 1: Personal Info
-![Step 1 - Personal Info](/pic4.jpeg)
-
-### 🏢 Step 2: Business Info
-![Step 2 - Business Info](/pic5.jpeg)
-
-### 🎨 Step 3: Preferences
-![Step 3 - Preferences](/pic6.jpeg)
-
-### 📊 Step 4: Dashboard
-![Step 4 - Dashboard](/pic7.jpeg)
 
 
 
