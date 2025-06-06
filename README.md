@@ -91,12 +91,8 @@ npm start
 
 ## 📸 Preview
 
-> *(Add image links or screenshots below once ready)*
-
-```markdown
 ![Onboarding UI Preview](/pic4.jpeg)
-![Dashboard UI Preview](pic5.jpeg)
-```
+
 
 ---
 
