@@ -91,6 +91,9 @@ npm start
 ## 📸 Preview
 
 ![Onboarding UI Preview](/pic4.jpeg)
+![Onboarding UI Preview](/pic5.jpeg)
+![Onboarding UI Preview](/pic6.jpeg)
+![Onboarding UI Preview](/pic7.jpeg)
 
 
 
