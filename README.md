@@ -90,10 +90,18 @@ npm start
 ---
 ## 📸 Preview
 
-![Onboarding UI Preview](/pic4.jpeg)
-![Onboarding UI Preview](/pic5.jpeg)
-![Onboarding UI Preview](/pic6.jpeg)
-![Onboarding UI Preview](/pic7.jpeg)
+### 🧑‍💼 Step 1: Personal Info
+![Step 1 - Personal Info](/src/assets/pic4.jpeg)
+
+### 🏢 Step 2: Business Info
+![Step 2 - Business Info](/src/assets/pic5.jpeg)
+
+### 🎨 Step 3: Preferences
+![Step 3 - Preferences](/src/assets/pic6.jpeg)
+
+### 📊 Step 4: Dashboard
+![Step 4 - Dashboard](/src/assets/pic7.jpeg)
+
 
 
 
