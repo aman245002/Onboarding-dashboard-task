@@ -91,16 +91,16 @@ npm start
 ## 📸 Preview
 
 ### 🧑‍💼 Step 1: Personal Info
-![Step 1 - Personal Info](/src/assets/pic4.jpeg)
+![Step 1 - Personal Info](/pic4.jpeg)
 
 ### 🏢 Step 2: Business Info
-![Step 2 - Business Info](/src/assets/pic5.jpeg)
+![Step 2 - Business Info](/pic5.jpeg)
 
 ### 🎨 Step 3: Preferences
-![Step 3 - Preferences](/src/assets/pic6.jpeg)
+![Step 3 - Preferences](/pic6.jpeg)
 
 ### 📊 Step 4: Dashboard
-![Step 4 - Dashboard](/src/assets/pic7.jpeg)
+![Step 4 - Dashboard](/pic7.jpeg)
 
 
 
