@@ -3,6 +3,11 @@
 A modern, responsive multi-step onboarding wizard with a personalized dashboard built using **React** and **TailwindCSS**.
 
 ---
+## 🔗 Live Demo
+
+👉 [https://ongoing-dashboard.netlify.app/onboarding](https://ongoing-dashboard.netlify.app/onboarding)
+
+---
 
 ## 📸 Preview
 
