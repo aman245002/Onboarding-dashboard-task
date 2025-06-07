@@ -1,4 +1,4 @@
-# 🚀 Onboarding & Dashboard Interface
+# 🚀 Onboarding & Dashboard Interface(Frontend)
 
 A modern, responsive multi-step onboarding wizard with a personalized dashboard built using **React** and **TailwindCSS**.
 
