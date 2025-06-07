@@ -62,7 +62,7 @@ git clone https://github.com/aman245002/Onboarding-task.git
 ### 2. Navigate to the project folder
 
 ```bash
-cd Onboarding-task
+cd Onboarding-dashboard-task
 ```
 
 ### 3. Install dependencies
